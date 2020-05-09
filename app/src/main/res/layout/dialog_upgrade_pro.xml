@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#3d3d3d">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/txtDialogTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="20dp"
+            android:textColor="#fff"
+            android:text="@string/upgrade_to_pro"/>
+
+        <TextView
+            android:id="@+id/txtUpgradeProDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txtDialogTitle"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:text="@string/by_upgrading_to_pro_you_will_get_the_following"/>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="30dp"
+            android:layout_below="@id/txtUpgradeProDescription"
+            android:orientation="horizontal">
+            <Button
+                android:id="@+id/btnCancel"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/round_white_outline_button"
+                android:textColor="#fff"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/cancel"/>
+
+            <Button
+                android:id="@+id/btnUpgradePro"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/round_white_outline_button"
+                android:textColor="#fff"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/upgrade"/>
+        </LinearLayout>
+    </RelativeLayout>
+</ScrollView>

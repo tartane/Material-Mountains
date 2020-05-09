@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00796b</color>
+    <color name="colorPrimaryDark">#004c40</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="blue_outerspace">#2f3640</color>
+
+    <!-- BLUE NIGHT THEME START -->
+    <color name="blue_night_theme_planet">#e1e3d3</color>
+
+    <color name="blue_night_theme_cloud">#fff</color>
+
+    <color name="blue_night_theme_background_gradient_start">#001c32</color>
+    <color name="blue_night_theme_background_gradient_end">#007088</color>
+
+    <color name="blue_night_theme_mountain_layer_1_dark">#28292a</color>
+    <color name="blue_night_theme_mountain_layer_1_light">#2d2f30</color>
+
+    <color name="blue_night_theme_mountain_peek_layer_1_dark">#d6d6d6</color>
+    <color name="blue_night_theme_mountain_peek_layer_1_light">#e9e9e9</color>
+
+    <color name="blue_night_theme_mountain_layer_2_dark">#1b2428</color>
+    <color name="blue_night_theme_mountain_layer_2_light">#1e292d</color>
+
+    <color name="blue_night_theme_mountain_peek_layer_2_dark">#b1b3b4</color>
+    <color name="blue_night_theme_mountain_peek_layer_2_light">#cacdce</color>
+
+    <color name="blue_night_theme_mountain_layer_3_dark">#0e171b</color>
+    <color name="blue_night_theme_mountain_layer_3_light">#101a1d</color>
+
+    <color name="blue_night_theme_mountain_peek_layer_3_dark">#5e6264</color>
+    <color name="blue_night_theme_mountain_peek_layer_3_light">#717677</color>
+    <!-- BLUE NIGHT THEME END -->
+
+    <!-- BLUE DAY THEME START -->
+    <color name="blue_day_theme_planet">#f7941d</color>
+
+    <color name="blue_day_theme_cloud">#fff</color>
+
+    <color name="blue_day_theme_background_gradient_start">#81d4fa</color>
+    <color name="blue_day_theme_background_gradient_end">#81d4fa</color>
+
+    <color name="blue_day_theme_mountain_layer_1_dark">#225a89</color>
+    <color name="blue_day_theme_mountain_layer_1_light">#2196f3</color>
+
+    <color name="blue_day_theme_mountain_peek_layer_1_dark">#918f8f</color>
+    <color name="blue_day_theme_mountain_peek_layer_1_light">#fff</color>
+
+    <color name="blue_day_theme_mountain_layer_2_dark">#225a89</color>
+    <color name="blue_day_theme_mountain_layer_2_light">#2196f3</color>
+
+    <color name="blue_day_theme_mountain_peek_layer_2_dark">#918f8f</color>
+    <color name="blue_day_theme_mountain_peek_layer_2_light">#fff</color>
+
+    <color name="blue_day_theme_mountain_layer_3_dark">#225a89</color>
+    <color name="blue_day_theme_mountain_layer_3_light">#2196f3</color>
+
+    <color name="blue_day_theme_mountain_peek_layer_3_dark">#918f8f</color>
+    <color name="blue_day_theme_mountain_peek_layer_3_light">#fff</color>
+    <!-- BLUE DAY THEME END -->
+
+    <!-- PURPLE THEME START -->
+    <color name="purple_theme_planet">#e1e3d3</color>
+
+    <color name="purple_theme_cloud">#fff</color>
+
+    <color name="purple_theme_background_gradient_start">#43538e</color>
+    <color name="purple_theme_background_gradient_end">#cb76a8</color>
+
+    <color name="purple_theme_mountain_layer_1_dark">#4c264d</color>
+    <color name="purple_theme_mountain_layer_1_light">#7a2d75</color>
+
+    <color name="purple_theme_mountain_peek_layer_1_dark">#9de3e3</color>
+    <color name="purple_theme_mountain_peek_layer_1_light">#fff</color>
+
+    <color name="purple_theme_mountain_layer_2_dark">#4c264d</color>
+    <color name="purple_theme_mountain_layer_2_light">#7a2d75</color>
+
+    <color name="purple_theme_mountain_peek_layer_2_dark">#9de3e3</color>
+    <color name="purple_theme_mountain_peek_layer_2_light">#fff</color>
+
+    <color name="purple_theme_mountain_layer_3_dark">#4c264d</color>
+    <color name="purple_theme_mountain_layer_3_light">#7a2d75</color>
+
+    <color name="purple_theme_mountain_peek_layer_3_dark">#9de3e3</color>
+    <color name="purple_theme_mountain_peek_layer_3_light">#fff</color>
+    <!-- PURPLE THEME END -->
+
+    <!-- RED SUNNY THEME START -->
+    <color name="red_sunny_theme_planet">#ffffd1</color>
+
+    <color name="red_sunny_theme_cloud">#fff</color>
+
+    <color name="red_sunny_theme_background_gradient_start">#fedbc7</color>
+    <color name="red_sunny_theme_background_gradient_end">#fedbc7</color>
+
+    <color name="red_sunny_theme_mountain_layer_1_dark">#ce5734</color>
+    <color name="red_sunny_theme_mountain_layer_1_light">#ff6c40</color>
+
+    <color name="red_sunny_theme_mountain_peek_layer_1_dark">#918f8f</color>
+    <color name="red_sunny_theme_mountain_peek_layer_1_light">#fff</color>
+
+    <color name="red_sunny_theme_mountain_layer_2_dark">#ce5734</color>
+    <color name="red_sunny_theme_mountain_layer_2_light">#ff6c40</color>
+
+    <color name="red_sunny_theme_mountain_peek_layer_2_dark">#918f8f</color>
+    <color name="red_sunny_theme_mountain_peek_layer_2_light">#fff</color>
+
+    <color name="red_sunny_theme_mountain_layer_3_dark">#ce5734</color>
+    <color name="red_sunny_theme_mountain_layer_3_light">#ff6c40</color>
+
+    <color name="red_sunny_theme_mountain_peek_layer_3_dark">#918f8f</color>
+    <color name="red_sunny_theme_mountain_peek_layer_3_light">#fff</color>
+    <!-- RED SUNNY THEME END  -->
+
+
+    <!-- GREEN FOREST THEME START -->
+    <color name="green_forest_theme_planet">#ffffd1</color>
+
+    <color name="green_forest_theme_cloud">#fff</color>
+
+    <color name="green_forest_theme_background_gradient_start">#e4ff7c</color>
+    <color name="green_forest_theme_background_gradient_end">#e4ff7c</color>
+
+    <color name="green_forest_theme_mountain_layer_1_dark">#348854</color>
+    <color name="green_forest_theme_mountain_layer_1_light">#3fa566</color>
+
+    <color name="green_forest_theme_mountain_peek_layer_1_dark">#918f8f</color>
+    <color name="green_forest_theme_mountain_peek_layer_1_light">#fff</color>
+
+    <color name="green_forest_theme_mountain_layer_2_dark">#348854</color>
+    <color name="green_forest_theme_mountain_layer_2_light">#3fa566</color>
+
+    <color name="green_forest_theme_mountain_peek_layer_2_dark">#918f8f</color>
+    <color name="green_forest_theme_mountain_peek_layer_2_light">#fff</color>
+
+    <color name="green_forest_theme_mountain_layer_3_dark">#348854</color>
+    <color name="green_forest_theme_mountain_layer_3_light">#3fa566</color>
+
+    <color name="green_forest_theme_mountain_peek_layer_3_dark">#918f8f</color>
+    <color name="green_forest_theme_mountain_peek_layer_3_light">#fff</color>
+    <!-- GREEN FOREST THEME END  -->
+
+    <!-- GREEN FOREST 2 THEME START -->
+    <color name="green_forest_2_theme_planet">#ffffd1</color>
+
+    <color name="green_forest_2_theme_cloud">#fff</color>
+
+    <color name="green_forest_2_theme_background_gradient_start">#c8e690</color>
+    <color name="green_forest_2_theme_background_gradient_end">#c8e690</color>
+
+    <color name="green_forest_2_theme_mountain_layer_1_dark">#4b8660</color>
+    <color name="green_forest_2_theme_mountain_layer_1_light">#599e71</color>
+
+    <color name="green_forest_2_theme_mountain_peek_layer_1_dark">#918f8f</color>
+    <color name="green_forest_2_theme_mountain_peek_layer_1_light">#fff</color>
+
+    <color name="green_forest_2_theme_mountain_layer_2_dark">#4b8660</color>
+    <color name="green_forest_2_theme_mountain_layer_2_light">#599e71</color>
+
+    <color name="green_forest_2_theme_mountain_peek_layer_2_dark">#918f8f</color>
+    <color name="green_forest_2_theme_mountain_peek_layer_2_light">#fff</color>
+
+    <color name="green_forest_2_theme_mountain_layer_3_dark">#4b8660</color>
+    <color name="green_forest_2_theme_mountain_layer_3_light">#599e71</color>
+
+    <color name="green_forest_2_theme_mountain_peek_layer_3_dark">#918f8f</color>
+    <color name="green_forest_2_theme_mountain_peek_layer_3_light">#fff</color>
+    <!-- GREEN FOREST 2 THEME END  -->
+
+    <!-- YELLOW SUNNY THEME START -->
+    <color name="yellow_sunny_theme_planet">#ffe375</color>
+
+    <color name="yellow_sunny_theme_cloud">#fff</color>
+
+    <color name="yellow_sunny_theme_background_gradient_start">#fdac1c</color>
+    <color name="yellow_sunny_theme_background_gradient_end">#fdac1c</color>
+
+    <color name="yellow_sunny_theme_mountain_layer_1_dark">#c66c1d</color>
+    <color name="yellow_sunny_theme_mountain_layer_1_light">#f18423</color>
+
+    <color name="yellow_sunny_theme_mountain_peek_layer_1_dark">#918f8f</color>
+    <color name="yellow_sunny_theme_mountain_peek_layer_1_light">#fff</color>
+
+    <color name="yellow_sunny_theme_mountain_layer_2_dark">#c66c1d</color>
+    <color name="yellow_sunny_theme_mountain_layer_2_light">#f18423</color>
+
+    <color name="yellow_sunny_theme_mountain_peek_layer_2_dark">#918f8f</color>
+    <color name="yellow_sunny_theme_mountain_peek_layer_2_light">#fff</color>
+
+    <color name="yellow_sunny_theme_mountain_layer_3_dark">#c66c1d</color>
+    <color name="yellow_sunny_theme_mountain_layer_3_light">#f18423</color>
+
+    <color name="yellow_sunny_theme_mountain_peek_layer_3_dark">#918f8f</color>
+    <color name="yellow_sunny_theme_mountain_peek_layer_3_light">#fff</color>
+    <!-- YELLOW SUNNY THEME END  -->
+
+    <!-- BLUE WINTER THEME START -->
+    <color name="blue_winter_theme_planet">#f5fffd</color>
+
+    <color name="blue_winter_theme_cloud">#fff</color>
+
+    <color name="blue_winter_theme_background_gradient_start">#a6ccfe</color>
+    <color name="blue_winter_theme_background_gradient_end">#a6ccfe</color>
+
+    <color name="blue_winter_theme_mountain_layer_1_dark">#5788c3</color>
+    <color name="blue_winter_theme_mountain_layer_1_light">#67a0e6</color>
+
+    <color name="blue_winter_theme_mountain_peek_layer_1_dark">#918f8f</color>
+    <color name="blue_winter_theme_mountain_peek_layer_1_light">#fff</color>
+
+    <color name="blue_winter_theme_mountain_layer_2_dark">#5788c3</color>
+    <color name="blue_winter_theme_mountain_layer_2_light">#67a0e6</color>
+
+    <color name="blue_winter_theme_mountain_peek_layer_2_dark">#918f8f</color>
+    <color name="blue_winter_theme_mountain_peek_layer_2_light">#fff</color>
+
+    <color name="blue_winter_theme_mountain_layer_3_dark">#5788c3</color>
+    <color name="blue_winter_theme_mountain_layer_3_light">#67a0e6</color>
+
+    <color name="blue_winter_theme_mountain_peek_layer_3_dark">#918f8f</color>
+    <color name="blue_winter_theme_mountain_peek_layer_3_light">#fff</color>
+    <!-- BLUE WINTER THEME END  -->
+
+    <!-- PINK NIGHT THEME START -->
+    <color name="pink_night_theme_planet">#ffffd1</color>
+
+    <color name="pink_night_theme_cloud">#fff</color>
+
+    <color name="pink_night_theme_background_gradient_start">#773076</color>
+    <color name="pink_night_theme_background_gradient_end">#b0408a</color>
+
+    <color name="pink_night_theme_mountain_layer_1_dark">#8c3169</color>
+    <color name="pink_night_theme_mountain_layer_1_light">#bb418c</color>
+
+    <color name="pink_night_theme_mountain_peek_layer_1_dark">#918f8f</color>
+    <color name="pink_night_theme_mountain_peek_layer_1_light">#fff</color>
+
+    <color name="pink_night_theme_mountain_layer_2_dark">#8c3169</color>
+    <color name="pink_night_theme_mountain_layer_2_light">#bb418c</color>
+
+    <color name="pink_night_theme_mountain_peek_layer_2_dark">#918f8f</color>
+    <color name="pink_night_theme_mountain_peek_layer_2_light">#fff</color>
+
+    <color name="pink_night_theme_mountain_layer_3_dark">#8c3169</color>
+    <color name="pink_night_theme_mountain_layer_3_light">#bb418c</color>
+
+    <color name="pink_night_theme_mountain_peek_layer_3_dark">#918f8f</color>
+    <color name="pink_night_theme_mountain_peek_layer_3_light">#fff</color>
+    <!-- PINK NIGHT  THEME END  -->
+
+
+
+
+</resources>

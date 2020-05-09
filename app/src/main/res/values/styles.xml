@@ -1,0 +1,187 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="all_assets_hidden">
+        <item name="treeLightColor">#00579141</item>
+        <item name="treeDarkColor">#0044732e</item>
+        <item name="treeTrunkColor">#00674f25</item>
+        <item name="seagullColor">#00000000</item>
+        <item name="cloudColor">#00ffffff</item>
+    </style>
+
+    <style name="trees_seagulls_hidden">
+        <item name="treeLightColor">#00579141</item>
+        <item name="treeDarkColor">#0044732e</item>
+        <item name="treeTrunkColor">#00674f25</item>
+        <item name="seagullColor">#00000000</item>
+    </style>
+
+    <style name="seagulls_clouds_hidden">
+        <item name="seagullColor">#00000000</item>
+        <item name="cloudColor">#00ffffff</item>
+    </style>
+
+    <style name="clouds_trees_hidden">
+        <item name="treeLightColor">#00579141</item>
+        <item name="treeDarkColor">#0044732e</item>
+        <item name="treeTrunkColor">#00674f25</item>
+        <item name="cloudColor">#00ffffff</item>
+    </style>
+
+    <style name="trees_hidden">
+        <item name="treeLightColor">#00579141</item>
+        <item name="treeDarkColor">#0044732e</item>
+        <item name="treeTrunkColor">#00674f25</item>
+    </style>
+
+    <style name="clouds_hidden">
+        <item name="cloudColor">#00ffffff</item>
+    </style>
+
+    <style name="seagulls_hidden">
+        <item name="seagullColor">#00000000</item>
+    </style>
+
+
+    <style name="blue_night_theme">
+        <item name="backgroundStartColor">#001c32</item>
+        <item name="backgroundEndColor">#007088</item>
+        <item name="treeLightColor">#579141</item>
+        <item name="treeDarkColor">#44732e</item>
+        <item name="treeTrunkColor">#674f25</item>
+        <item name="seagullColor">#66000000</item>
+        <item name="cloudColor">#CCffffff</item>
+        <item name="planetColor">#e1e3d3</item>
+        <item name="mountainDarkColor">#28292a</item>
+        <item name="mountainLightColor">#2d2f30</item>
+        <item name="mountainPeekDarkColor">#d6d6d6</item>
+        <item name="mountainPeekLightColor">#e9e9e9</item>
+    </style>
+
+    <style name="blue_day_theme">
+        <item name="backgroundStartColor">#81d4fa</item>
+        <item name="backgroundEndColor">#81d4fa</item>
+        <item name="treeLightColor">#579141</item>
+        <item name="treeDarkColor">#44732e</item>
+        <item name="treeTrunkColor">#674f25</item>
+        <item name="seagullColor">#66000000</item>
+        <item name="cloudColor">#CCffffff</item>
+        <item name="planetColor">#f7941d</item>
+        <item name="mountainDarkColor">#225a89</item>
+        <item name="mountainLightColor">#2196f3</item>
+        <item name="mountainPeekDarkColor">#918f8f</item>
+        <item name="mountainPeekLightColor">#fff</item>
+    </style>
+
+    <style name="blue_winter_theme">
+        <item name="backgroundStartColor">#a6ccfe</item>
+        <item name="backgroundEndColor">#a6ccfe</item>
+        <item name="treeLightColor">#579141</item>
+        <item name="treeDarkColor">#44732e</item>
+        <item name="treeTrunkColor">#674f25</item>
+        <item name="seagullColor">#66000000</item>
+        <item name="cloudColor">#CCffffff</item>
+        <item name="planetColor">#f5fffd</item>
+        <item name="mountainDarkColor">#5788c3</item>
+        <item name="mountainLightColor">#67a0e6</item>
+        <item name="mountainPeekDarkColor">#918f8f</item>
+        <item name="mountainPeekLightColor">#fff</item>
+    </style>
+
+    <style name="purple_theme">
+        <item name="backgroundStartColor">#43538e</item>
+        <item name="backgroundEndColor">#cb76a8</item>
+        <item name="treeLightColor">#579141</item>
+        <item name="treeDarkColor">#44732e</item>
+        <item name="treeTrunkColor">#674f25</item>
+        <item name="seagullColor">#66000000</item>
+        <item name="cloudColor">#CCffffff</item>
+        <item name="planetColor">#e1e3d3</item>
+        <item name="mountainDarkColor">#4c264d</item>
+        <item name="mountainLightColor">#7a2d75</item>
+        <item name="mountainPeekDarkColor">#9de3e3</item>
+        <item name="mountainPeekLightColor">#fff</item>
+    </style>
+
+    <style name="pink_night_theme">
+        <item name="backgroundStartColor">#773076</item>
+        <item name="backgroundEndColor">#b0408a</item>
+        <item name="treeLightColor">#579141</item>
+        <item name="treeDarkColor">#44732e</item>
+        <item name="treeTrunkColor">#674f25</item>
+        <item name="seagullColor">#66000000</item>
+        <item name="cloudColor">#CCffffff</item>
+        <item name="planetColor">#ffffd1</item>
+        <item name="mountainDarkColor">#8c3169</item>
+        <item name="mountainLightColor">#bb418c</item>
+        <item name="mountainPeekDarkColor">#918f8f</item>
+        <item name="mountainPeekLightColor">#fff</item>
+    </style>
+
+    <style name="red_sunny_theme">
+        <item name="backgroundStartColor">#fedbc7</item>
+        <item name="backgroundEndColor">#fedbc7</item>
+        <item name="treeLightColor">#579141</item>
+        <item name="treeDarkColor">#44732e</item>
+        <item name="treeTrunkColor">#674f25</item>
+        <item name="seagullColor">#66000000</item>
+        <item name="cloudColor">#CCffffff</item>
+        <item name="planetColor">#ffffd1</item>
+        <item name="mountainDarkColor">#ce5734</item>
+        <item name="mountainLightColor">#ff6c40</item>
+        <item name="mountainPeekDarkColor">#918f8f</item>
+        <item name="mountainPeekLightColor">#fff</item>
+    </style>
+
+    <style name="yellow_sunny_theme">
+        <item name="backgroundStartColor">#fdac1c</item>
+        <item name="backgroundEndColor">#fdac1c</item>
+        <item name="treeLightColor">#579141</item>
+        <item name="treeDarkColor">#44732e</item>
+        <item name="treeTrunkColor">#674f25</item>
+        <item name="seagullColor">#66000000</item>
+        <item name="cloudColor">#CCffffff</item>
+        <item name="planetColor">#ffe375</item>
+        <item name="mountainDarkColor">#c66c1d</item>
+        <item name="mountainLightColor">#f18423</item>
+        <item name="mountainPeekDarkColor">#918f8f</item>
+        <item name="mountainPeekLightColor">#fff</item>
+    </style>
+
+    <style name="green_forest_theme">
+        <item name="backgroundStartColor">#e4ff7c</item>
+        <item name="backgroundEndColor">#e4ff7c</item>
+        <item name="treeLightColor">#579141</item>
+        <item name="treeDarkColor">#44732e</item>
+        <item name="treeTrunkColor">#674f25</item>
+        <item name="seagullColor">#66000000</item>
+        <item name="cloudColor">#CCffffff</item>
+        <item name="planetColor">#ffffd1</item>
+        <item name="mountainDarkColor">#348854</item>
+        <item name="mountainLightColor">#3fa566</item>
+        <item name="mountainPeekDarkColor">#918f8f</item>
+        <item name="mountainPeekLightColor">#fff</item>
+    </style>
+
+    <style name="green_forest_2_theme">
+        <item name="backgroundStartColor">#c8e690</item>
+        <item name="backgroundEndColor">#c8e690</item>
+        <item name="treeLightColor">#579141</item>
+        <item name="treeDarkColor">#44732e</item>
+        <item name="treeTrunkColor">#674f25</item>
+        <item name="seagullColor">#66000000</item>
+        <item name="cloudColor">#CCffffff</item>
+        <item name="planetColor">#ffffd1</item>
+        <item name="mountainDarkColor">#4b8660</item>
+        <item name="mountainLightColor">#599e71</item>
+        <item name="mountainPeekDarkColor">#918f8f</item>
+        <item name="mountainPeekLightColor">#fff</item>
+    </style>
+</resources>

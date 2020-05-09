@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Material Mountains</string>
+    <string name="upgrade_to_pro">Upgrade to pro</string>
+    <string name="rate_the_app">Rate the app</string>
+    <string name="about">About</string>
+    <string name="home_screen">Home screen</string>
+    <string name="home_and_lock_screens">Home and lock screens</string>
+    <string name="lock_screen">Lock screen</string>
+    <string name="set_as_wallpaper">Set as wallpaper</string>
+    <string name="home_screen_wallpaper_has_been_set">Home screen wallpaper as been set.</string>
+    <string name="lock_screen_wallpaper_has_been_set">Lock screen wallpaper has been set</string>
+    <string name="home_and_lock_screen_wallpaper_have_been_set">Home and lock screen wallpaper have been set</string>
+    <string name="wallpaper_has_been_set">Wallpaper has been set</string>
+    <string name="unable_to_connect_to_google_play">Unable to connect with Google Play.</string>
+    <string name="retry">RETRY</string>
+    <string name="dismiss">DISMISS</string>
+    <string name="you_already_own_that_item_purchase_restored">You already own that item. Your purchase has been restored.</string>
+    <string name="error_unknown_with_purchase">An error has occurred with your purchase, please try again.</string>
+    <string name="select_a_layout">Select a layout</string>
+    <string name="select_a_theme">Select a theme</string>
+    <string name="add_image_assets">Add image assets</string>
+    <string name="cancel">Cancel</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="by_upgrading_to_pro_you_will_get_the_following">By upgrading to pro, you will get the following: \n   \u2022  Access to additional layouts\n   \u2022  Ability to add seagulls and trees\n   \u2022  Access to the random layout\n \u2022  All new updates to the app\n \u2022  A drink for the developer (of course)</string>
+    <string name="clouds">Clouds</string>
+    <string name="trees">Trees</string>
+    <string name="seagulls">Seagulls</string>
+    <string name="done">Done</string>
+    <string name="done_pro">Done (pro)</string>
+    <string name="save_on_device">Save on device</string>
+    <string name="select_an_option">Select an option</string>
+    <string name="saved_to_downloads_folder">Saved to downloads folder.</string>
+    <string name="saved_to_picture_gallery">Saved to picture gallery</string>
+    <string name="random_layout_changes">Random layout changes every 30 seconds</string>
+</resources>
